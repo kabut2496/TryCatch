@@ -20,9 +20,6 @@ public class CatchingExceptions {
         double numerator = 0,denominator=0;
         double result = 0;
         
-        //int numerator = 0,denominator=0;
-        //int result = 0;
-        //do this if you want it to be a int
         
         try{
             //user inputs
